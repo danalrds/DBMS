@@ -1,0 +1,14 @@
+D:\SGBD\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.exe.config
+D:\SGBD\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.exe
+D:\SGBD\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.pdb
+D:\SGBD\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.csprojAssemblyReference.cache
+D:\SGBD\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.csproj.CoreCompileInputs.cache
+D:\SGBD\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.exe
+D:\SGBD\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.pdb
+D:\DBMS\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.exe.config
+D:\DBMS\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.exe
+D:\DBMS\SGBDLab1\SGBDLab1\bin\Debug\SGBDLab1.pdb
+D:\DBMS\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.csprojAssemblyReference.cache
+D:\DBMS\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.csproj.CoreCompileInputs.cache
+D:\DBMS\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.exe
+D:\DBMS\SGBDLab1\SGBDLab1\obj\Debug\SGBDLab1.pdb
