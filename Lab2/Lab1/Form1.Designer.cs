@@ -73,9 +73,9 @@
             this.label1.ForeColor = System.Drawing.Color.ForestGreen;
             this.label1.Location = new System.Drawing.Point(255, 117);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(106, 20);
+            this.label1.Size = new System.Drawing.Size(116, 20);
             this.label1.TabIndex = 2;
-            this.label1.Text = "TechTeams\r\n";
+            this.label1.Text = "Parent Table\r\n";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -85,9 +85,9 @@
             this.label2.ForeColor = System.Drawing.Color.ForestGreen;
             this.label2.Location = new System.Drawing.Point(864, 117);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(93, 20);
+            this.label2.Size = new System.Drawing.Size(104, 20);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Engineers";
+            this.label2.Text = "Child Table";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // button1
@@ -114,9 +114,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(701, 420);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(45, 17);
+            this.label3.Size = new System.Drawing.Size(38, 17);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Name\r\n";
+            this.label3.Text = "Field\r\n";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // button2
@@ -147,9 +147,9 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(1001, 420);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(72, 17);
+            this.label4.Size = new System.Drawing.Size(35, 17);
             this.label4.TabIndex = 11;
-            this.label4.Text = "NewName";
+            this.label4.Text = "New";
             // 
             // textBox2
             // 
