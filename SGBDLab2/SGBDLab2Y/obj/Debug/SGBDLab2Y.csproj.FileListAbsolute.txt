@@ -8,3 +8,13 @@ D:\DBMS\SGBDLab2Y\SGBDLab2Y\obj\Debug\SGBDLab2Y.csproj.GenerateResource.cache
 D:\DBMS\SGBDLab2Y\SGBDLab2Y\obj\Debug\SGBDLab2Y.csproj.CoreCompileInputs.cache
 D:\DBMS\SGBDLab2Y\SGBDLab2Y\obj\Debug\SGBDLab2Y.exe
 D:\DBMS\SGBDLab2Y\SGBDLab2Y\obj\Debug\SGBDLab2Y.pdb
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\bin\Debug\SGBDLab2Y.exe.config
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\bin\Debug\SGBDLab2Y.exe
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\bin\Debug\SGBDLab2Y.pdb
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.csprojAssemblyReference.cache
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.Form1.resources
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.Properties.Resources.resources
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.csproj.GenerateResource.cache
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.csproj.CoreCompileInputs.cache
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.exe
+D:\GITHUB\DBMS\SGBDLab2\SGBDLab2Y\obj\Debug\SGBDLab2Y.pdb

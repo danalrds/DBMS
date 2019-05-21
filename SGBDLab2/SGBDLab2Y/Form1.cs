@@ -24,25 +24,8 @@ namespace SGBDLab2Y
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Inserted Successfully to the Database");
+            MessageBox.Show("Saved Successfully to the Database");
             daTerminals.Update(ds, "Terminals");
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            MessageBox.Show("Deleted Successfully from the the Database");
-            daTerminals.Update(ds, "Terminals");
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Updated Successfully in the the Database");
-            daTerminals.Update(ds, "Terminals");
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
 
         }
 
