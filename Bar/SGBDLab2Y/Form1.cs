@@ -17,6 +17,7 @@ namespace SGBDLab2Y
         SqlDataAdapter daCategories, daDrinks;
         DataSet ds;
         SqlCommandBuilder cmdBuilder;
+        BindingSource bsCategories, bsDrinks;
         public Form1()
         {
             InitializeComponent();
