@@ -40,3 +40,10 @@ CREATE TABLE OrderDetails(oid INT FOREIGN KEY REFERENCES Orders(oid),
 							did INT FOREIGN KEY REFERENCES Drinks(did),
 							quantity INT,
 							PRIMARY KEY(oid,did));
+
+
+INSERT Categories VALUES ('category1'), ('category2'), ('category3');
+INSERT Drinks VALUES ('vodka', 'desc1', 1), ('whiskey','desc2', 2 ), ('scotch', 'desc3', 3);
+
+
+SELECT * FROM Drinks;
